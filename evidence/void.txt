@@ -1,0 +1,14 @@
+{
+  "path": "/_next/static/chunks/pages/package/[...slug]-4f0619cf32290712.js",
+  "status": 200,
+  "contentType": "text/javascript; charset=utf-8",
+  "matchesExportedJavaScript": true,
+  "bodyStart": "(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[712],{2169:function(n,u,e){(window.__NEXT_P"
+}
+{
+  "path": "/_next/static/chunks/pages/package/%5B...slug%5D-4f0619cf32290712.js",
+  "status": 200,
+  "contentType": "text/html; charset=utf-8",
+  "matchesExportedJavaScript": false,
+  "bodyStart": "<!DOCTYPE html><html><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width\""
+}
